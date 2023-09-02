@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PDF Example by Object Tag</title>
+  </head>
+  <body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="\hui.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="C:\Users\KABaranov\Documents\knowledge\vault\checking-obsidian-main\docs\hui.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
