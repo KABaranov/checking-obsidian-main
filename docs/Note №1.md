@@ -1,3 +1,1 @@
-![[Теоретический_минимум_по_Computer_Science.pdf]]
-![Name](pdf/Теоретический_минимум_по_Computer_Science.pdf)
-![Name](docs\pdf\Теоретический_минимум_по_Computer_Science.pdf)
+![[photo_2023-02-17_23-22-09.jpg]]

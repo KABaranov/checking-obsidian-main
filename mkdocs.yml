@@ -2,6 +2,7 @@ site_name: Knowledge Base
 
 theme:
     name: 'material'
+    language: ru
     palette:
 
     # Light mode
@@ -28,9 +29,9 @@ markdown_extensions:
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.magiclink
+  # - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
